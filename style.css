@@ -1,0 +1,39 @@
+body
+{
+    background-color: aqua;
+}
+
+h1
+{
+    color: blue;
+    background-color: antiquewhite;
+}
+
+#sketch_name
+{
+    color: red;
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+p, span
+{
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+#score
+{
+    font-size: 35px;
+    margin-left: 25px;
+}
+
+#timer
+{
+    font-size: 35px;
+    float: right;
+    margin-right: 40px;
+}
